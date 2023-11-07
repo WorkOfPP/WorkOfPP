@@ -61,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src="https://img.shields.io/badge/-black?logo=tensorflow" width="50" height="50" />
 <br>
 <br>
+<br>
 <h2>Data Science Skill Sets</h2>
 Machine Learning (Linear, Logistic, Random Forest, Xgboost, Segmentation, Clustering) | Visualization (Matplotlib, Seaborn, plotly) | Time Series | Statistics, A/B Testing | Linear Algebra | Modeling | Deep Learning (CNN,LSTM,BERT,Transformers)
 <br>
