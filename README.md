@@ -46,6 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <h1>Techncial skills</h1>
+<br>
 <h2>Programming</h2>
 <img align="left" src="https://img.shields.io/badge/PySpark-black?logo=apachespark" width="60" height="60" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=python" width="50" height="50" />
@@ -60,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src="https://img.shields.io/badge/-black?logo=keras" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=tensorflow" width="50" height="50" />
 <br>
-<br>
+
 <br>
 <h2>Data Science Skill Sets</h2>
 Machine Learning (Linear, Logistic, Random Forest, Xgboost, Segmentation, Clustering) | Visualization (Matplotlib, Seaborn, plotly) | Time Series | Statistics, A/B Testing | Linear Algebra | Modeling | Deep Learning (CNN,LSTM,BERT,Transformers)
@@ -116,4 +117,5 @@ Machine Learning (Linear, Logistic, Random Forest, Xgboost, Segmentation, Cluste
 <br>
 <h2>Domain or Functional</h2>
 AdTech, Pharmaceutical, Healthcare, Financial Services
+<br>
 <br>
