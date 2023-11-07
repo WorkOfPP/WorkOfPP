@@ -53,14 +53,15 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src="https://img.shields.io/badge/-black?logo=numpy" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=scikitlearn" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=r" width="50" height="50" />
-<img align="left" src="https://img.shields.io/badge/SAS-black" width="50" height="50" />
+<img align="left" src="https://img.shields.io/badge/SAS-black" width="40" height="40" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=mysql" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=apachehive" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=pytorch" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=keras" width="50" height="50" />
-<img align="left" src="https://img.shields.io/badge/-black?logo=tensorflow" width="50" height="50" />
+<img align="left" src="https://img.shields.io/badge/-black?logo=tensorflow" width="40" height="40" />
 <br>
 
+<br>
 <br>
 <h2>Data Science Skill Sets</h2>
 Machine Learning (Linear, Logistic, Random Forest, Xgboost, Segmentation, Clustering) | Visualization (Matplotlib, Seaborn, plotly) | Time Series | Statistics, A/B Testing | Linear Algebra | Modeling | Deep Learning (CNN,LSTM,BERT,Transformers)
