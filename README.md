@@ -82,7 +82,7 @@ Machine Learning (Linear, Logistic, Random Forest, Xgboost, Segmentation, Cluste
 <img align="left" src="https://img.shields.io/badge/-black?logo=microsoftexcel" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=linux" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=git" width="50" height="50" />
-<img align="left" src="https://img.shields.io/badge/-black?logo=streamlit" width="50" height="50" />
+<img align="left" src="https://img.shields.io/badge/Streamlit-black?logo=streamlit" width="60" height="60" />
 <br>
 
 <br>
