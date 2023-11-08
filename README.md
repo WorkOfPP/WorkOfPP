@@ -122,6 +122,6 @@ Machine Learning (Linear, Logistic, Random Forest, Xgboost, Segmentation, Cluste
 <br>
 
 <br>
-<h2>Domain or Functional</h2>
+<h2>Domain</h2>
 AdTech, Pharmaceutical, Healthcare, Financial Services
 <br>
