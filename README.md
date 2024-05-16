@@ -5,7 +5,28 @@ Feel free to reach me at workofpp@gmail.com
 WorkOfPP/WorkOfPP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h2>Skills</h2>
 
+
+- **Programming:** Python (Pandas, Numpy, Sklearn, PySpark, Keras, TensorFlow, Matplotlib), R, SAS, MySQL
+- **Cloud Platforms:** AWS (Redshift, Athena, EMR, EC2, Glue, S3, Sagemaker), GCP (BigQuery, Vertex AI), Azure
+- **Data Engineering:** PostgreSQL, MongoDB, Neo4j, Presto, Apache Hive
+- **Data Science:** Machine Learning (Regression, Classification, Clustering, Tree Ensembles, Xgboost), Deep Learning (CNN,LSTM,BERT,Transformers)
+- **Generative AI:** BioGPT, Mistral-7B, MedAlpaca, GPT3.5 Turbo
+- **MLOps and Other tools:** Tableau, Alteryx, Linux, Streamlit, Flask, Git, Docker, Time Series, Statistics, A/B Testing
+- **Domain:** AdTech, Pharmaceutical, Healthcare, Financial Services
+
+
+
+
+
+
+
+
+
+
+
+<!---
 <br>
 <h1>Techncial skills</h1>
 <h2>Domain</h2>
@@ -31,8 +52,10 @@ Python (Pandas, Numpy, Sklearn, PySpark, Keras, TensorFlow), R, SAS, MySQL, Apac
 <img align="left" src="https://img.shields.io/badge/Apache Hive-black?logo=apachehive" width="100" height="60" />
 <!--img align="left" src="https://img.shields.io/badge/-black?logo=pytorch" width="120" height="60" /-->
 <!---<img align="left" src="https://img.shields.io/badge/Keras-black?logo=keras" width="100" height="60" />
-<img align="left" src="https://img.shields.io/badge/TensorFlow-black?logo=tensorflow" width="100" height="60" />--->
-<br>
+<img align="left" src="https://img.shields.io/badge/TensorFlow-black?logo=tensorflow" width="100" height="60" />
+--->
+
+<!---<br>
 
 
 
@@ -42,8 +65,10 @@ BioGPT, Mistral-7B, MedAlpaca, GPT3.5 Turbo
 <!---<img align="left" src="https://img.shields.io/badge/BioGPT-black" width="100" height="60" />
 <img align="left" src="https://img.shields.io/badge/Mistral-black" width="100" height="60" />
 <img align="left" src="https://img.shields.io/badge/MedAlpaca-black" width="100" height="60" />
-<img align="left" src="https://img.shields.io/badge/GPT3.5-black?logo=openai" width="100" height="60" />--->
-<br>
+<img align="left" src="https://img.shields.io/badge/GPT3.5-black?logo=openai" width="100" height="60" />
+--->
+
+<!---<br>
 
 <!---<br>
 <h2>Other tools</h2>
@@ -54,15 +79,19 @@ Tableau, Alteryx, Linux, Streamlit, Flask
 <img align="left" src="https://img.shields.io/badge/-black?logo=linux" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=git" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/Streamlit-black?logo=streamlit" width="60" height="60" />
-<br>--->
+<br>
+--->
 
+<!---
 <br>
 <h2>Cloud Platforms</h2>
 AWS (Redshift, Athena, EMR, EC2, Glue, S3, Sagemaker), GCP, Azure
 <!---<img align="left" src="https://img.shields.io/badge/-black?logo=amazons3" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=amazonec2" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=googlecloud" width="50" height="50" />
-<img align="left" src="https://img.shields.io/badge/Amazon%20SageMaker-black" width="60" height="60" />--->
+<img align="left" src="https://img.shields.io/badge/Amazon%20SageMaker-black" width="60" height="60" />
+--->
+<!---
 <br>
 
 <br>
@@ -73,7 +102,10 @@ Tableau, Alteryx, Linux, Streamlit, Flask, Git, Docker
 <img align="left" src="https://img.shields.io/badge/lakeFS-black" width="60" height="60" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=apacheairflow" width="50" height="50" />
 <img align="left" src="https://img.shields.io/badge/-black?logo=mlflow" width="50" height="50" />
-<img align="left" src="https://img.shields.io/badge/-black?logo=docker" width="50" height="50" />--->
+<img align="left" src="https://img.shields.io/badge/-black?logo=docker" width="50" height="50" />
+--->
+
+<!---
 <br>
 
 <br>
