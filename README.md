@@ -1,6 +1,6 @@
 Hi, I’m Preetika! I’m interested in AI and and scalable machine learning, more precisely in the fields of predictive analytics, NLP and GenAI. Well versed with Machine Learning and Deep Learning techniques, I’m looking to collaborate on impactful and innovative projects.
 
-Feel free to reach me at workofpp@gmail.com
+Feel free to reach me at preetikap24@gmail.com
 <!---
 WorkOfPP/WorkOfPP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
